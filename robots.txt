@@ -19,8 +19,8 @@ Allow: /
 User-agent: *
 Disallow: /
 
-Sitemap: https://pureummassage.netlify.app/sitemap.xml
-Sitemap: https://pureummassage.netlify.app/sitemap-hub.xml
-Sitemap: https://pureummassage.netlify.app/sitemap-area.xml
-Sitemap: https://pureummassage.netlify.app/sitemap-topic.xml
-Sitemap: https://pureummassage.netlify.app/rss.xml
+Sitemap: https://pureummassage.pages.dev/sitemap.xml
+Sitemap: https://pureummassage.pages.dev/sitemap-hub.xml
+Sitemap: https://pureummassage.pages.dev/sitemap-area.xml
+Sitemap: https://pureummassage.pages.dev/sitemap-topic.xml
+Sitemap: https://pureummassage.pages.dev/rss.xml
